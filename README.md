@@ -12,7 +12,7 @@ Linux.
 Role Variables
 --------------
 
-script_caller__dest: Destination to download the script. Default: /usr/bin
+script_caller__dest: Destination to download the script. Default: /usr/bin/script_caller.sh
 
 Dependencies
 ------------

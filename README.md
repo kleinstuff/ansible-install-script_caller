@@ -1,7 +1,7 @@
 Role Name
 =========
 
-Just download the [script_caller]](https://github.com/kleinstuff/script_caller) script on {{ script_caller__dest }}
+Just download the [script_caller](https://github.com/kleinstuff/script_caller) script on {{ script_caller__dest }}
 
 Requirements
 ------------

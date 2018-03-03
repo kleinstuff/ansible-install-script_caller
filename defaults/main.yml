@@ -1,0 +1,3 @@
+---
+# defaults file for install-script_caller
+script_caller__dest: /usr/bin

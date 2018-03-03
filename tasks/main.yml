@@ -1,0 +1,9 @@
+---
+# tasks file for install-script_caller
+- name: Download script_caller.sh
+  get_url:
+    url:  https://raw.githubusercontent.com/kleinstuff/script_caller/master/script_caller.sh
+    dest: "{{ script_caller__dest }}"/script_caller.sh
+    mode: 0755
+    owner: nobody
+    group: nobody

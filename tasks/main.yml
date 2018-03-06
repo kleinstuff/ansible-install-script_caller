@@ -4,6 +4,7 @@
   get_url:
     url:  https://raw.githubusercontent.com/kleinstuff/script_caller/master/script_caller.sh
     dest: "{{ script_caller__dest }}"
+    force: yes
     mode: 0755
     owner: nobody
     group: nobody
